@@ -1,4 +1,4 @@
-function uniteUnique(arr) {
+function returnDupes(arr) {
  //need to concat into one single array
 
  var filterCallBack = function(value, index) {
